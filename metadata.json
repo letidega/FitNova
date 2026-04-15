@@ -1,0 +1,5 @@
+{
+  "name": "FitNova",
+  "description": "Tu compañero integral de fitness y nutrición impulsado por IA. Realiza un seguimiento de tus entrenamientos, comidas y progreso con asesoramiento personalizado.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
